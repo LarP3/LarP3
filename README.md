@@ -2,7 +2,7 @@
 - 👀 I’m interested in increasing my programming knowledge
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me larryfrayer1@gmail.com
+- 📫 How to reach me 
 
 <!---
 LarP3/LarP3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
